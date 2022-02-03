@@ -1,5 +1,7 @@
 # 532_lab4
 
+# Reference my CS533 assignment
+
 //If don't have file1 or file2
 
 1. Use command " gcc lab4.c"
